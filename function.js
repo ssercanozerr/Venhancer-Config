@@ -9,7 +9,7 @@ function TaskManager() {
     const taskIndex = this.tasks.findIndex(task => task.name === taskName);
     if (taskIndex !== -1) {
       this.tasks[taskIndex].completed = true;
-      console.log("Patlıcan");
+      console.log("dell");
       console.log("Portakal");
       console.log("Lemon");
     } else {
