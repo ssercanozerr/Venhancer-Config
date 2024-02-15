@@ -10,8 +10,8 @@ function TaskManager() {
       if (taskIndex !== -1) {
         this.tasks[taskIndex].completed = true;
         console.log("x")
-        console.log("ford")
-        console.log("apple")
+        console.log("Ford")
+        console.log("Apple")
       } else {
         console.log("Task not found!");
       }
