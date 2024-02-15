@@ -10,7 +10,7 @@ function TaskManager() {
     if (taskIndex !== -1) {
       this.tasks[taskIndex].completed = true;
     } else {
-      console.log("Not founded But Fonksiyon çok değişti Değişti");
+      console.log("Not founded R1 conflicts");
     }
   };
  
