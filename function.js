@@ -10,7 +10,7 @@ function TaskManager() {
     if (taskIndex !== -1) {
       this.tasks[taskIndex].completed = true;
       console.log("Patlıcan");
-      console.log("Toyota");
+      console.log("fsdfd");
       console.log("Lemon");
     } else {
       console.log("Not founded But R1");
