@@ -9,6 +9,9 @@ function TaskManager() {
     const taskIndex = this.tasks.findIndex(task => task.name === taskName);
     if (taskIndex !== -1) {
       this.tasks[taskIndex].completed = true;
+      console.log("Patlıcan");
+      console.log("Toyota");
+      console.log("Lemon");
     } else {
       console.log("Not founded But R1");
     }
