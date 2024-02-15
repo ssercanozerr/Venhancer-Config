@@ -10,6 +10,7 @@ function TaskManager() {
       if (taskIndex !== -1) {
         this.tasks[taskIndex].completed = true;
         console.log("dell")
+        console.log("monster")
       } else {
         console.log("Task not found!");
       }
