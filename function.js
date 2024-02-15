@@ -13,7 +13,7 @@ function TaskManager() {
         console.log("ford")
         console.log("apple")
       } else {
-        console.log("Task not found! degisti");
+        console.log("Task not found!");
       }
     };
    
