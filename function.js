@@ -11,6 +11,7 @@ function TaskManager() {
         this.tasks[taskIndex].completed = true;
         console.log("dell")
         console.log("monster")
+        console.log("apple")
       } else {
         console.log("Task not found!");
       }
